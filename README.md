@@ -7,13 +7,11 @@
 
 ## 🚀 Technologies & Tools
 
-### Frontend Development
+### Frontend & Backend Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
-
-### Backend Development
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Razor Pages](https://img.shields.io/badge/-Razor%20Pages-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
