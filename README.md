@@ -37,10 +37,8 @@
 
 ## 📚 Latest Projects
 1. **[Rollespil]** 
-   - [GitHub Repo] (private)
 
 2. **[mouse-jiggler]**
-   - [GitHub Repo]([link](https://github.com/thorc04/Mouse-Jiggler))
 
 ## 📈 GitHub Stats
 
